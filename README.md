@@ -9,28 +9,7 @@ The project includes SQL based data preparation and a Tableau story that visuali
 Dataset
 The dataset contains state level counts of vehicles by fuel type, including:
 
-Electric EV
-
-Plug In Hybrid Electric PHEV
-
-Hybrid Electric HEV
-
-Biodiesel
-
-Ethanol Flex E85
-
-Compressed Natural Gas CNG
-
-Propane
-
-Hydrogen
-
-Methanol
-
-Gasoline
-
-Diesel
-
+Electric EV, Plug In Hybrid Electric PHEV, Hybrid Electric HEV, Biodiesel,Ethanol Flex E85, etc.
 Unknown Fuel
 
 All calculations and visualizations are based on these values.
