@@ -1,7 +1,4 @@
 # EV_Analysis
-This project analyzes the distribution of alternative fuel vehicles across U.S. states to identify patterns in adoption, regional differences, and indicators of future growth. 
-United States Electric Vehicle Adoption and Alternative Fuel Trends
-Project Overview
 This project analyzes the distribution of alternative fuel vehicles across U.S. states to identify adoption patterns, regional differences, and indicators of future EV growth. The analysis focuses on Electric Vehicles (EV), Plug In Hybrid Electric Vehicles (PHEV), Hybrid Electric Vehicles (HEV), and other alternative fuels. The goal is to understand where EV infrastructure investment would have the greatest impact and to support data driven recommendations for policymakers and planners.
 
 The project includes SQL based data preparation and a Tableau story that visualizes key findings.
